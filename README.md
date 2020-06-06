@@ -1,4 +1,4 @@
-# 1. Honey bee population check . honey bee population, the purpose was to perform exploratory data analysis (EDA).
+# 1. Honey bee population check usecase . honey bee population, the purpose was to perform exploratory data analysis (EDA).
 # file used are : Honeyproduction.csv and code for honey bee population check.ipynb
 
 # 2. Titanic project code. survival of passenger prediction.
