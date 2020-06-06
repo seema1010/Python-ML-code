@@ -1,6 +1,6 @@
-# Python-ML-code
+# 1. Python-ML-code
 # Honey bee population check . honey bee population, the purpose was to perform exploratory data analysis (EDA).
-# file used are : Honeyproduction.csv and 
+# file used are : Honeyproduction.csv and code for honey bee population check.ipynb
 
-# Titanic project code. survival of passenger prediction.
+# 2. Titanic project code. survival of passenger prediction.
 # files used in this project are : project titanic problem statement details and test.csv and train.csv and titanic project solution.ipynb
